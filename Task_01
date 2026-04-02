@@ -1,1 +1,66 @@
+# 📊 Customer Churn Analytics Dashboard
+
+## 🎯 Objective
+
+The goal of this dashboard is to analyze customer churn behavior and identify key factors that lead to customer loss.
+
+---
+
+## 📂 Dataset
+
+The dataset contains customer information such as:
+
+* Contract Type
+* Internet Service
+* Payment Method
+* Monthly Charges
+* Tenure
+* Churn Status
+
+---
+
+## 📊 Key KPIs
+
+* Total Customers: 4000
+* Churn Rate: 49.30%
+* Churned Customers: 1972
+* Customer Lifetime Value (CLV): 2.53K
+* Avg Monthly Charges: 69.91
+
+---
+
+## 📈 Key Insights
+
+* Customers with **month-to-month contracts** have higher churn rates
+* **Fiber optic users** tend to churn more
+* Customers with **short tenure** are more likely to leave
+* Certain **payment methods influence churn behavior**
+* Lack of **tech support increases churn probability**
+
+---
+
+## 📊 Visualizations Used
+
+* Bar Chart → Churn by Contract Type
+* Pie Chart → Churn Distribution
+* Line Chart → Tenure vs Churn
+* Bar Chart → Payment Method Analysis
+* KPI Cards
+* Slicers (Contract, Internet Service, Tenure)
+
+---
+
+## 🛠️ Tools Used
+
+* Power BI
+* Data Cleaning & Transformation
+* DAX for KPI calculations
+
+---
+
+## 💡 Conclusion
+
+This dashboard helps businesses identify high-risk customers and take proactive steps to improve retention.
+
+---
 
