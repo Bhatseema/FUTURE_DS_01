@@ -32,7 +32,7 @@ Includes:
 * 💳 Avg Order Value: 117.37K
 
 📸 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 
 📈 Key Insights
