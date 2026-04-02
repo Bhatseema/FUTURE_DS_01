@@ -1,22 +1,30 @@
-🛒 Retail Sales Data Analysis Dashboard
+# 🛒 Retail Sales Data Analysis Dashboard
 
-🚀 Project Overview
+---
+
+## 🚀 Project Overview
 
 This dashboard analyzes retail sales to understand product performance and revenue trends.
 
-👩‍💻 Author
+---
 
-Seema Bhat
+## 👩‍💻 Author
+
+**Seema Bhat**
 Aspiring Data Analyst | Power BI Developer
 
-🎯 Business Objective
+---
+
+## 🎯 Business Objective
 
 * Analyze regional sales
 * Identify top products
 * Track trends
 * Improve revenue strategies
 
-📂 Dataset Description
+---
+
+## 📂 Dataset Description
 
 Includes:
 
@@ -25,36 +33,48 @@ Includes:
 * Sales Data
 * Region & City
 
-📊 Key KPIs
+---
+
+## 📊 Key KPIs
 
 * 📦 Products: 200
 * 💰 Sales: 23M
 * 💳 Avg Order Value: 117.37K
 
-📸 Dashboard Preview
+---
+
+## 📸 Dashboard Preview
 
 ![Dashboard](Dashboard.png)
 
+---
 
-📈 Key Insights
+## 📈 Key Insights
 
 * North region leads sales
 * Top categories drive revenue
 * Sales trends fluctuate monthly
 
-📊 Visualizations Used
+---
+
+## 📊 Visualizations Used
 
 * Line Chart (Sales Trend)
 * Bar Chart (Category)
 * Map (Region Sales)
 * Pie Chart
 
-🛠️ Tools Used
+---
+
+## 🛠️ Tools Used
 
 * Power BI
 * Data Visualization
 
-📌 Conclusion
+---
+
+## 📌 Conclusion
 
 Supports business decisions using sales insights.
 
+---
